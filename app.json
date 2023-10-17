@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Annotation",
-    "slug": "Anotações rápidas",
+    "slug": "annotation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa1b1e51-17d2-479d-92d8-1a8a50d0c6e6"
+      }
     }
   }
 }
